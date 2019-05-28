@@ -254,16 +254,15 @@ log stdout
 ## 数据包截图
 
 #### Router4-ens38 BGP报文
-
-[Router4 BGP报文](Router4 BGP报文.PNG)
+![Router4 BGP报文](https://github.com/HELLORPG/NJU-NetworkingLab/edit/master/Lab5/Router4%BGP报文.PNG)
 
 #### Router4-ens33 RIP报文
 
-[Router4 RIP报文](./Router4 RIP报文.PNG)
+![Router4 RIP报文](https://github.com/HELLORPG/NJU-NetworkingLab/edit/master/Lab5/Router4%RIP报文.PNG)
 
 #### Router5-ens33 OSPF报文
 
-[Router5 OSPF报文](./Router5 OSPF报文.PNG)
+![Router5 OSPF报文](https://github.com/HELLORPG/NJU-NetworkingLab/edit/master/Lab5/Router5%OSPF报文.PNG)
 
 
 
@@ -271,7 +270,7 @@ log stdout
 
 #### RIP分析
 
-[Router4 RIP报文](./Router4 RIP报文.PNG)
+![Router4 RIP报文](https://github.com/HELLORPG/NJU-NetworkingLab/edit/master/Lab5/Router4%RIP报文.PNG)
 
 从上至下进行分析：
 
@@ -291,7 +290,7 @@ log stdout
 
 #### OSPF报文分析
 
-[Router5 OSPF报文](./Router5 OSPF报文.PNG)
+![Router5 OSPF报文](https://github.com/HELLORPG/NJU-NetworkingLab/edit/master/Lab5/Router5%OSPF报文.PNG)
 
 从上至下进行分析：
 
@@ -323,7 +322,7 @@ log stdout
 
 #### BGP报文分析
 
-[Router4 BGP报文](./Router4 BGP报文.PNG)
+![Router4 BGP报文](https://github.com/HELLORPG/NJU-NetworkingLab/edit/master/Lab5/Router4%BGP报文.PNG)
 
 接收到的是BGP包中的`keepalive`存活证明类型报文。
 
