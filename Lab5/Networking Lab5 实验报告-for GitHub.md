@@ -255,7 +255,7 @@ log stdout
 
 #### Router4-ens38 BGP报文
 
-[Router4 BGP报文](./Router4 BGP报文.PNG)
+[Router4 BGP报文](Router4 BGP报文.PNG)
 
 #### Router4-ens33 RIP报文
 
