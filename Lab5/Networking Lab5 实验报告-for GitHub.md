@@ -255,15 +255,15 @@ log stdout
 
 #### Router4-ens38 BGP报文
 
-![Router4 BGP报文](D:\OneDrive\ComputerScienceMajor\Computer Networking\Lab\Lab5\Router4 BGP报文.PNG)
+![Router4 BGP报文](./Router4 BGP报文.PNG)
 
 #### Router4-ens33 RIP报文
 
-![Router4 RIP报文](D:\OneDrive\ComputerScienceMajor\Computer Networking\Lab\Lab5\Router4 RIP报文.PNG)
+![Router4 RIP报文](./Router4 RIP报文.PNG)
 
 #### Router5-ens33 OSPF报文
 
-![Router5 OSPF报文](D:\OneDrive\ComputerScienceMajor\Computer Networking\Lab\Lab5\Router5 OSPF报文.PNG)
+![Router5 OSPF报文]./Router5 OSPF报文.PNG)
 
 
 
