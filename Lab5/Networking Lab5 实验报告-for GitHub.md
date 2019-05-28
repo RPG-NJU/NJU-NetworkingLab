@@ -254,7 +254,7 @@ log stdout
 ## 数据包截图
 
 #### Router4-ens38 BGP报文
-![Router4 BGP报文](https://github.com/HELLORPG/NJU-NetworkingLab/edit/master/Lab5/Router4 BGP报文.PNG)
+![Router4 BGP报文](https://github.com/HELLORPG/NJU-NetworkingLab/edit/master/Lab5/Router4%BGP报文.PNG)
 
 #### Router4-ens33 RIP报文
 
