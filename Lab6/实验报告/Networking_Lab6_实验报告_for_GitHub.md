@@ -90,13 +90,13 @@ sudo /etc/init.d/networking restart
 
 ## 运行结果截图
 
-![运行截图-ping](D:\OneDrive\ComputerScienceMajor\Computer Networking\Lab\Lab6\运行截图-ping.PNG)
+![运行截图-ping](./运行截图-ping.PNG)
 
 如上为在`PC1`上ping之后的终端输出。
 
 
 
-![运行截图-抓包](D:\OneDrive\ComputerScienceMajor\Computer Networking\Lab\Lab6\运行截图-抓包.PNG)
+![运行截图-抓包](./运行截图-抓包.PNG)
 
 如上为在模拟网络的`Network`主机上的wireshark抓包结果。
 
